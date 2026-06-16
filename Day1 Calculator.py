@@ -18,15 +18,17 @@ def divide(x,y):
         return x/y
 
 def calculator():
+    print("="*150)
     print("Select operation:")
     print("1. Add")
     print("2. Subtract")
     print("3. Multiply")
     print("4. Divide")
+    print("="*150)
 
     while True:
         #Take input from the user
-        choice = input("Enter choices (1/2/3/4) : ")
+        choice = input("Enter your choice (1/2/3/4) ??: ")
 
         #Check if the input is one of the four options
         if choice in ['1','2','3','4']:
