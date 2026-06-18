@@ -42,7 +42,7 @@ A beginner-friendly command-line calculator built using Python. It performs basi
 ## 🧑‍💻 How to Use
 
 1. **Clone the repository**
-   git clone https://github.com/your-username/python-calculator.git
+   git clone https://github.com/Shwetarawat061/Day1_Calculator.git
    cd python-calculator
 Run the calculator
 
